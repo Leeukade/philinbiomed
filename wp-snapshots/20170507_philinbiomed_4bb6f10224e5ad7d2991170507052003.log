@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-05-07 05:20:26
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.6
+WORDPRESS:	4.7.4
+PHP INFO:	7.1.1 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.1.1 mod_ssl/2.2.31 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:38 | filtered:0 | create:38 
+FILTERED: [] 
+SQL CREATED: 20170507_philinbiomed_4bb6f10224e5ad7d2991170507052003_database.sql 
+SQL FILE SIZE: 6.19MB (6488599) 
+SQL FILE TIME: 2017-05-07 05:20:28 
+SQL RUNTIME: 1.78 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/philinbiomed 
+ARCHIVE FILE: 20170507_philinbiomed_4bb6f10224e5ad7d2991170507052003_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	89.55MB 
+STATS:	Dirs 882 | Files 6,239 
+SQL ADDED: 20170507_philinbiomed_4bb6f10224e5ad7d2991170507052003_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7121
+    [filename] => /Applications/MAMP/htdocs/philinbiomed/wp-snapshots/tmp/20170507_philinbiomed_4bb6f10224e5ad7d2991170507052003_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 33.2MB 
+ARCHIVE RUNTIME: 25.34 sec. 
+MEMORY STACK: 4MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/philinbiomed/wp-snapshots/tmp/20170507_philinbiomed_4bb6f10224e5ad7d2991170507052003_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 6.19MB 
+Installer File: 422.11KB 
+Archive File: 33.2MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 28.45 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20170507_philinbiomed 2017-05-07 05:20:55
+ 
